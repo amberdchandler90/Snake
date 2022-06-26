@@ -1,0 +1,17 @@
+.user-profile {
+    background-color: #bfbfbf;
+}
+
+.headline{
+    background-color: gray;
+    
+}
+.avatar {
+    float: right;
+    padding-top: 5px;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 35px;
+}
